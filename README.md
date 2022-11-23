@@ -26,4 +26,4 @@ pip install -r requirements.txt
 
 
 ## Example Results
-![Example_Result_bg_remover](https://github.com/noorkhokhar99/Avatar-mediapipe-opencv-python/blob/main/testing.png)
+![Example Results](https://github.com/noorkhokhar99/Avatar-mediapipe-opencv-python/blob/main/Screen%20Shot%201444-04-28%20at%2011.17.07%20PM.png)
